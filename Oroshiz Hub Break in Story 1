@@ -1,4 +1,4 @@
-local OrionLib = loadstring(game:HttpGet(('https://pastebin.com/raw/WRUyYTdY')))()
+slocal OrionLib = loadstring(game:HttpGet(('https://pastebin.com/raw/WRUyYTdY')))()
 local Window = OrionLib:MakeWindow({Name = "Oroshiz Hub", HidePremium = false, IntroText = "Oroshiz Hub",
 IntroEnabled = true, SaveConfig = true, ConfigFolder = "OrionTest"})
 
